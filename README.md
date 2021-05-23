@@ -2,6 +2,7 @@
 
 ## Introduction
 This is a basic music app. It has seven keys like the keys of a xylophone which play different notes of sound. This mini-app is part of the Flutter Development Course by the London App Brewery. 
+![App screenshot](https://github.com/Pranavc22/xylophone/blob/main/screenshots/home.jpg = 108x234)
 
 ## Concepts Learned 
 Some of the new concepts learned while making this mini-app were: 
